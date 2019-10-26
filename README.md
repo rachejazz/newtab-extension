@@ -1,2 +1,2 @@
 # extension
-Custom extension for new Tab, supported in Chrome 
+Custom extension for new Tab, supports firefox and chrome
