@@ -5,5 +5,10 @@
     "chrome_url_overrides" : {
        "newtab": "project.html"
      },
+     "applications": {
+      "gecko": {
+        "id": "simplenewtab@cyberdude.com"
+      }
+    },    
     "manifest_version": 2
   }
