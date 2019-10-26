@@ -1,0 +1,9 @@
+{
+    "name": "New Tab",
+    "description":"Customizes Home page",
+    "version": "1.0",
+    "chrome_url_overrides" : {
+       "newtab": "project.html"
+     },
+    "manifest_version": 2
+  }
