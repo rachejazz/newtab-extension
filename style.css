@@ -65,10 +65,11 @@ html{
     font-size:60px;color:rgb(247, 241, 241);}
   p{font-size:20px;color:rgb(247, 241, 241);padding-left:20px;}
   .center p{
+    font-size:15px;
     margin:20px;
   }
   .center a{
-    font-size: 20px;
+    font-size: 15px;
     color: black;
     text-decoration-line: none;
     border-radius: 10px;
